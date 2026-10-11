@@ -1,0 +1,23 @@
+# 由 PCL DeepSeek 启动器自动生成，请勿手工修改
+- id: agent-default-model
+  config:
+    provider: ollama
+    model: "qwen2.5:7b"
+    reasoningEffort: high
+- id: llm
+  config:
+    providers:
+      ollama:
+        displayName: Ollama (本地)
+        api: openai-completions
+        baseURL: "http://127.0.0.1:11434/v1"
+        apiKeyEnv: OLLAMA_API_KEY
+- id: compaction-basic
+  config:
+    enabled: true
+    thresholdPercent: 70
+- id: token-meter
+  config:
+    contextWindow: 32768
+    maxOutputTokens: 4096
+- id: plugin-manager

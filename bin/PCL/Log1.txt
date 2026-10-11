@@ -1,0 +1,79 @@
+20:21:58.265 I <4 · Logger> [Logger] 开始轮转日志文件
+20:21:58.288 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+20:21:58.316 I [Application] 程序版本：正式版 2.13.1.1 (408)
+20:21:58.316 I [Application] 识别码：0000-0000-0000-0000
+20:21:58.316 I [Application] 程序路径：C:\Users\*\Downloads\dsh pcl\_src\PCL-main\Plain Craft Launcher 2\bin\Plain Craft Launcher 2.exe
+20:21:58.319 I [Application] 系统编码：gb2312 (936, GBK=True)
+20:21:58.319 I [Application] 管理员权限：True
+20:21:58.320 I [Application] 第一阶段加载用时：80 ms
+20:21:58.494 I [FormMain] 版本号从 0 升高到 408
+20:21:58.498 I [FormMain] 最高版本号从 0 升高到 408
+20:21:58.499 I [FormMain] 已解除帮助页面的隐藏
+20:21:58.500 I [FormMain] 已从老版本迁移微软登录结果
+20:21:58.502 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+20:21:58.572 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+20:21:58.572 I [FormMain] 第二阶段加载用时：239 ms
+20:21:58.580 I <5 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+20:21:58.767 I [FormMain] 从设置更新背景图片与标题栏样式
+20:21:58.816 I [FormMain] 窗口已置顶，位置：(1270, 425), 900 x 550
+20:21:58.820 I [FormMain] 第三阶段加载用时：59 ms
+20:21:58.821 I <7 · Animation> [ModAnimation] 动画线程开始
+20:21:58.833 I <11 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：C:\Users\*\Downloads\dsh pcl\_src\PCL-main\Plain Craft Launcher 2\bin\.minecraft\
+20:21:58.834 I <11 · Version Check> [PageLaunchLeft] 当前选择的 Minecraft 版本无效：null
+20:21:58.844 I <11 · Version Check> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Loading
+20:21:58.859 I <12 · L/Minecraft Instance List> [ModMinecraft] 当前选择的 Minecraft 版本：无
+20:21:58.859 I <12 · L/Minecraft Instance List> [ModMinecraft] 未找到可用 Minecraft 版本
+20:21:58.859 I <12 · L/Minecraft Instance List> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Finished
+20:21:58.872 I <11 · Version Check> [PageLaunchLeft] 无可用 Minecraft 版本
+20:21:58.901 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+20:21:58.906 I <13 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+20:21:58.960 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+20:21:58.961 I [PageLaunchLeft] 启动按钮：无 Minecraft 版本，要求下载
+20:21:58.982 I [MySkin] 载入头像成功：Loader Skin Legacy
+20:21:58.983 I [ModAnimation] 两个动画帧间隔 139 ms
+20:21:59.010 I [MyMsgText] 普通弹窗：协议授权
+20:21:59.010 I [MyMsgText] 在使用 PCL 前，请先阅读用户协议与免责声明。
+20:21:59.536 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：C:\Users\*\Downloads\dsh pcl\_src\PCL-main\Plain Craft Launcher 2\bin\Plain Craft Launcher 2.exe
+20:22:00.092 I [MyButton] 按下按钮：同意
+20:22:00.094 I <9 · 初始化> [ModMain] 普通弹框返回：1
+20:22:00.348 I <9 · 初始化> [ModJava] 共有 5 个可用的 Java：
+20:22:00.348 I <9 · 初始化> [ModJava] - Java 21 (21.0.11.0)：C:\Program Files\Zulu\zulu-21\bin\
+20:22:00.348 I <9 · 初始化> [ModJava] - Java 17 (17.0.19.0)：C:\Program Files\Zulu\zulu-17\bin\
+20:22:00.348 I <9 · 初始化> [ModJava] - Java 26 (26.0.1.0)：C:\Program Files\Zulu\zulu-26\bin\
+20:22:00.348 I <9 · 初始化> [ModJava] - Java 8 (8.0.492.0)：C:\Program Files\Zulu\zulu-8\jre\bin\
+20:22:00.348 I <9 · 初始化> [ModJava] - Java 8 (8.0.492.0)：C:\Program Files\Zulu\zulu-8\bin\
+20:22:00.464 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+20:22:00.465 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+20:22:00.466 I <10 · L/PCL 配置更新> [ModSecret] 该版本中不包含更新通知功能……
+20:22:00.466 I <10 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+20:22:00.466 I <14 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+20:22:00.467 I <14 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+20:22:00.471 I <11 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+20:22:00.486 I [MyMsgText] 普通弹窗：开源版本说明
+20:22:00.486 I [MyMsgText] 该版本中无法使用以下特性：
+20:22:00.486 I [MyMsgText] - CurseForge API 调用：需要自行申请 API Key，然后添加到 ModSecret.vb 的开头
+20:22:00.486 I [MyMsgText] - 正版登录：需要自行向微软申请 Client ID，然后添加到 ModSecret.vb 的开头
+20:22:00.486 I [MyMsgText] - 更新与联网通知：避免滥用隐患
+20:22:00.486 I [MyMsgText] - 主题切换：这是需要赞助解锁的纪念性质的功能，别让赞助者太伤心啦……
+20:22:00.486 I [MyMsgText] - 百宝箱：开发早期往里面塞了些开发工具，整理起来太麻烦了……
+20:22:02.539 I <11 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：2072ms，可优先使用官方源
+20:22:02.541 I <11 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+20:22:02.847 I [MyButton] 按下按钮：确定
+20:22:04.118 I [MyRadioButton] 按下单选按钮：DeepSeek
+20:22:04.170 I [FormMain] 切换主要页面：Dsh, -1
+20:22:24.376 I [MyButton] 按下按钮：校验配置
+20:22:29.056 I [MyListItem] 按下单选列表项：插件与内存
+20:22:29.594 I [MyRadioButton] 按下单选按钮：更多
+20:22:29.620 I [ModLoader] 加载器 LoaderTask`2 Help Page 状态改变：Loading
+20:22:29.623 I [FormMain] 切换主要页面：Other, -1
+20:22:29.629 I <22 · L/Help Page> [ModBase] 将资源写入到文件：Help → C:\Users\*\AppData\Local\Temp\PCL\Cache\Help.zip
+20:22:29.686 I <22 · L/Help Page> [ModMain] 已解压内置帮助文件，目前状态：True
+20:22:29.687 I <22 · L/Help Page> [ModMain] 已扫描 PCL 文件夹下的帮助文件，目前总计 0 条
+20:22:29.688 I <22 · L/Help Page> [ModMain] 已扫描缓存文件夹下的帮助文件，目前总计 40 条
+20:22:29.780 I <22 · L/Help Page> [ModLoader] 加载器 LoaderTask`2 Help Page 状态改变：Finished
+20:22:30.362 I [ModAnimation] FPS 0, 动画 8, 下载中 0（0 B/s）
+20:22:30.718 I [MyRadioButton] 按下单选按钮：启动
+20:22:30.718 I [FormMain] 切换主要页面：Launch, -1
+20:22:31.918 I [MyIconButton] 按下图标按钮：BtnTitleClose
+20:22:31.922 I [FormMain] 收到关闭指令
+20:22:32.160 I [FormMain] 程序已退出，返回值：Success

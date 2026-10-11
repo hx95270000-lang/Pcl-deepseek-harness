@@ -1,0 +1,173 @@
+20:21:43.212 I <4 · Logger> [Logger] 开始轮转日志文件
+20:21:43.233 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+20:21:43.278 I [Application] 程序版本：正式版 2.13.1.1 (408)
+20:21:43.278 I [Application] 识别码：0000-0000-0000-0000
+20:21:43.278 I [Application] 程序路径：C:\Users\*\Downloads\dsh pcl\_src\PCL-main\Plain Craft Launcher 2\bin\Plain Craft Launcher 2.exe
+20:21:43.280 I [Application] 系统编码：gb2312 (936, GBK=True)
+20:21:43.281 I [Application] 管理员权限：False
+20:21:43.281 I [Application] 第一阶段加载用时：94 ms
+20:21:43.445 I [FormMain] 版本号从 0 升高到 408
+20:21:43.448 W [Settings] 写入注册表失败（SystemLastVersionReg → dyocrD5LJvs=）：程序权限不足。请尝试右键程序，选择以管理员身份运行，或将文件移动到其他文件夹。
+20:21:43.448 W [Settings] ——————— 详细错误信息 ———————
+20:21:43.448 W [Settings] 对注册表项“HKEY_CURRENT_USER\Software\PCLDebug”的访问被拒绝。
+20:21:43.448 W [Settings]    在 Microsoft.Win32.RegistryKey.Win32Error
+20:21:43.448 W [Settings]    在 Microsoft.Win32.RegistryKey.CreateSubKeyInternal
+20:21:43.448 W [Settings]    在 Microsoft.Win32.RegistryKey.CreateSubKey
+20:21:43.448 W [Settings]    在 MeloongCore.RegistryUtils.GetRegistryKey 位置 C:\Users\*\Downloads\dsh pcl\_src\PCL-main\MeloongCore\Shared\Utils\RegistryUtils.cs:行号 70
+20:21:43.448 W [Settings]    在 MeloongCore.RegistryUtils.Write 位置 C:\Users\*\Downloads\dsh pcl\_src\PCL-main\MeloongCore\Shared\Utils\RegistryUtils.cs:行号 38
+20:21:43.448 W [Settings]    在 PCL.Settings.Setting.Save
+20:21:43.448 W [Settings]    错误类型：System.UnauthorizedAccessException
+20:21:43.453 W [Settings] 写入注册表失败（SystemHighestBetaVersionReg → dyocrD5LJvs=）：程序权限不足。请尝试右键程序，选择以管理员身份运行，或将文件移动到其他文件夹。
+20:21:43.453 W [Settings] ——————— 详细错误信息 ———————
+20:21:43.453 W [Settings] 对注册表项“HKEY_CURRENT_USER\Software\PCLDebug”的访问被拒绝。
+20:21:43.453 W [Settings]    在 Microsoft.Win32.RegistryKey.Win32Error
+20:21:43.453 W [Settings]    在 Microsoft.Win32.RegistryKey.CreateSubKeyInternal
+20:21:43.453 W [Settings]    在 Microsoft.Win32.RegistryKey.CreateSubKey
+20:21:43.453 W [Settings]    在 MeloongCore.RegistryUtils.GetRegistryKey 位置 C:\Users\*\Downloads\dsh pcl\_src\PCL-main\MeloongCore\Shared\Utils\RegistryUtils.cs:行号 70
+20:21:43.453 W [Settings]    在 MeloongCore.RegistryUtils.Write 位置 C:\Users\*\Downloads\dsh pcl\_src\PCL-main\MeloongCore\Shared\Utils\RegistryUtils.cs:行号 38
+20:21:43.453 W [Settings]    在 PCL.Settings.Setting.Save
+20:21:43.453 W [Settings]    错误类型：System.UnauthorizedAccessException
+20:21:43.453 I [FormMain] 最高版本号从 0 升高到 408
+20:21:43.454 W [Settings] 写入注册表失败（UiLauncherThemeHide2 → m+Ft81YgHWL3EbDxBxu2EA==）：程序权限不足。请尝试右键程序，选择以管理员身份运行，或将文件移动到其他文件夹。
+20:21:43.454 W [Settings] ——————— 详细错误信息 ———————
+20:21:43.454 W [Settings] 对注册表项“HKEY_CURRENT_USER\Software\PCLDebug”的访问被拒绝。
+20:21:43.454 W [Settings]    在 Microsoft.Win32.RegistryKey.Win32Error
+20:21:43.454 W [Settings]    在 Microsoft.Win32.RegistryKey.CreateSubKeyInternal
+20:21:43.454 W [Settings]    在 Microsoft.Win32.RegistryKey.CreateSubKey
+20:21:43.454 W [Settings]    在 MeloongCore.RegistryUtils.GetRegistryKey 位置 C:\Users\*\Downloads\dsh pcl\_src\PCL-main\MeloongCore\Shared\Utils\RegistryUtils.cs:行号 70
+20:21:43.454 W [Settings]    在 MeloongCore.RegistryUtils.Write 位置 C:\Users\*\Downloads\dsh pcl\_src\PCL-main\MeloongCore\Shared\Utils\RegistryUtils.cs:行号 38
+20:21:43.454 W [Settings]    在 PCL.Settings.Setting.Save
+20:21:43.454 W [Settings]    错误类型：System.UnauthorizedAccessException
+20:21:43.455 I [FormMain] 已解除帮助页面的隐藏
+20:21:43.455 W [Settings] 写入注册表失败（CacheMsV2Migrated → True）：程序权限不足。请尝试右键程序，选择以管理员身份运行，或将文件移动到其他文件夹。
+20:21:43.455 W [Settings] ——————— 详细错误信息 ———————
+20:21:43.455 W [Settings] 对注册表项“HKEY_CURRENT_USER\Software\PCLDebug”的访问被拒绝。
+20:21:43.455 W [Settings]    在 Microsoft.Win32.RegistryKey.Win32Error
+20:21:43.455 W [Settings]    在 Microsoft.Win32.RegistryKey.CreateSubKeyInternal
+20:21:43.455 W [Settings]    在 Microsoft.Win32.RegistryKey.CreateSubKey
+20:21:43.455 W [Settings]    在 MeloongCore.RegistryUtils.GetRegistryKey 位置 C:\Users\*\Downloads\dsh pcl\_src\PCL-main\MeloongCore\Shared\Utils\RegistryUtils.cs:行号 70
+20:21:43.455 W [Settings]    在 MeloongCore.RegistryUtils.Write 位置 C:\Users\*\Downloads\dsh pcl\_src\PCL-main\MeloongCore\Shared\Utils\RegistryUtils.cs:行号 38
+20:21:43.455 W [Settings]    在 PCL.Settings.Setting.Save
+20:21:43.455 W [Settings]    错误类型：System.UnauthorizedAccessException
+20:21:43.456 I [FormMain] 已从老版本迁移微软登录结果
+20:21:43.457 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+20:21:43.527 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+20:21:43.528 I [FormMain] 第二阶段加载用时：235 ms
+20:21:43.535 I <5 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+20:21:43.707 I [FormMain] 从设置更新背景图片与标题栏样式
+20:21:43.755 I [FormMain] 窗口已置顶，位置：(1270, 425), 900 x 550
+20:21:43.760 I [FormMain] 第三阶段加载用时：57 ms
+20:21:43.760 I <7 · Animation> [ModAnimation] 动画线程开始
+20:21:43.772 I <11 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：C:\Users\*\Downloads\dsh pcl\_src\PCL-main\Plain Craft Launcher 2\bin\.minecraft\
+20:21:43.773 I <11 · Version Check> [PageLaunchLeft] 当前选择的 Minecraft 版本无效：null
+20:21:43.783 I <11 · Version Check> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Loading
+20:21:43.798 I <12 · L/Minecraft Instance List> [ModMinecraft] 当前选择的 Minecraft 版本：无
+20:21:43.798 I <12 · L/Minecraft Instance List> [ModMinecraft] 未找到可用 Minecraft 版本
+20:21:43.798 I <12 · L/Minecraft Instance List> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Finished
+20:21:43.805 I <11 · Version Check> [PageLaunchLeft] 无可用 Minecraft 版本
+20:21:43.838 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+20:21:43.843 I <13 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+20:21:43.898 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+20:21:43.899 I [PageLaunchLeft] 启动按钮：无 Minecraft 版本，要求下载
+20:21:43.901 I [ModAnimation] 两个动画帧间隔 125 ms
+20:21:43.940 I [MySkin] 载入头像成功：Loader Skin Legacy
+20:21:43.957 I [MyMsgText] 普通弹窗：缓存文件夹不可用
+20:21:43.957 I [MyMsgText] PCL 无法访问缓存文件夹，可能导致程序出错或无法正常使用！
+20:21:43.957 I [MyMsgText] 错误原因：程序权限不足。请尝试右键程序，选择以管理员身份运行，或将文件移动到其他文件夹。
+20:21:43.957 I [MyMsgText] ——————— 详细错误信息 ———————
+20:21:43.957 I [MyMsgText] 对路径“\\?\C:\Users\*\AppData\Local\Temp\PCL\CheckPermission10.txt”的访问被拒绝。
+20:21:43.957 I [MyMsgText]    在 System.IO.__Error.WinIOError
+20:21:43.957 I [MyMsgText]    在 System.IO.FileStream.Init
+20:21:43.957 I [MyMsgText]    在 System.IO.FileStream..ctor
+20:21:43.957 I [MyMsgText]    在 System.IO.File.InternalWriteAllBytes
+20:21:43.957 I [MyMsgText]    在 ThrottleDebounce.Retrier.Attempt
+20:21:43.957 I [MyMsgText]    在 MeloongCore.FileUtils.Write 位置 C:\Users\*\Downloads\dsh pcl\_src\PCL-main\MeloongCore\Shared\Utils\FileUtils.cs:行号 105
+20:21:43.957 I [MyMsgText]    在 PCL.ModBase.CheckPermissionWithException
+20:21:43.957 I [MyMsgText]    在 PCL.Application.Application_Startup
+20:21:43.957 I [MyMsgText]    错误类型：System.UnauthorizedAccessException
+20:21:44.482 I [FormMain] DPI：96，系统版本：Microsoft Windows NT 10.0.19045.0，PCL 位置：C:\Users\*\Downloads\dsh pcl\_src\PCL-main\Plain Craft Launcher 2\bin\Plain Craft Launcher 2.exe
+20:21:47.427 I [MyButton] 按下按钮：确定
+20:21:47.655 I [MyMsgText] 普通弹窗：协议授权
+20:21:47.655 I [MyMsgText] 在使用 PCL 前，请先阅读用户协议与免责声明。
+20:21:48.875 I [MyButton] 按下按钮：同意
+20:21:48.875 I <9 · 初始化> [ModMain] 普通弹框返回：1
+20:21:48.876 W <9 · 初始化> [Settings] 写入注册表失败（SystemEulaVersion → 2）：程序权限不足。请尝试右键程序，选择以管理员身份运行，或将文件移动到其他文件夹。
+20:21:48.876 W <9 · 初始化> [Settings] ——————— 详细错误信息 ———————
+20:21:48.876 W <9 · 初始化> [Settings] 对注册表项“HKEY_CURRENT_USER\Software\PCLDebug”的访问被拒绝。
+20:21:48.876 W <9 · 初始化> [Settings]    在 Microsoft.Win32.RegistryKey.Win32Error
+20:21:48.876 W <9 · 初始化> [Settings]    在 Microsoft.Win32.RegistryKey.CreateSubKeyInternal
+20:21:48.876 W <9 · 初始化> [Settings]    在 Microsoft.Win32.RegistryKey.CreateSubKey
+20:21:48.876 W <9 · 初始化> [Settings]    在 MeloongCore.RegistryUtils.GetRegistryKey 位置 C:\Users\*\Downloads\dsh pcl\_src\PCL-main\MeloongCore\Shared\Utils\RegistryUtils.cs:行号 70
+20:21:48.876 W <9 · 初始化> [Settings]    在 MeloongCore.RegistryUtils.Write 位置 C:\Users\*\Downloads\dsh pcl\_src\PCL-main\MeloongCore\Shared\Utils\RegistryUtils.cs:行号 38
+20:21:48.876 W <9 · 初始化> [Settings]    在 PCL.Settings.Setting.Save
+20:21:48.876 W <9 · 初始化> [Settings]    错误类型：System.UnauthorizedAccessException
+20:21:49.132 I <9 · 初始化> [ModJava] 共有 5 个可用的 Java：
+20:21:49.132 I <9 · 初始化> [ModJava] - Java 21 (21.0.11.0)：C:\Program Files\Zulu\zulu-21\bin\
+20:21:49.132 I <9 · 初始化> [ModJava] - Java 17 (17.0.19.0)：C:\Program Files\Zulu\zulu-17\bin\
+20:21:49.132 I <9 · 初始化> [ModJava] - Java 26 (26.0.1.0)：C:\Program Files\Zulu\zulu-26\bin\
+20:21:49.132 I <9 · 初始化> [ModJava] - Java 8 (8.0.492.0)：C:\Program Files\Zulu\zulu-8\jre\bin\
+20:21:49.132 I <9 · 初始化> [ModJava] - Java 8 (8.0.492.0)：C:\Program Files\Zulu\zulu-8\bin\
+20:21:49.243 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+20:21:49.244 W <9 · 初始化> [Settings] 写入注册表失败（SystemCount → Zghi8cl9A3Q=）：程序权限不足。请尝试右键程序，选择以管理员身份运行，或将文件移动到其他文件夹。
+20:21:49.244 W <9 · 初始化> [Settings] ——————— 详细错误信息 ———————
+20:21:49.244 W <9 · 初始化> [Settings] 对注册表项“HKEY_CURRENT_USER\Software\PCLDebug”的访问被拒绝。
+20:21:49.244 W <9 · 初始化> [Settings]    在 Microsoft.Win32.RegistryKey.Win32Error
+20:21:49.244 W <9 · 初始化> [Settings]    在 Microsoft.Win32.RegistryKey.CreateSubKeyInternal
+20:21:49.244 W <9 · 初始化> [Settings]    在 Microsoft.Win32.RegistryKey.CreateSubKey
+20:21:49.244 W <9 · 初始化> [Settings]    在 MeloongCore.RegistryUtils.GetRegistryKey 位置 C:\Users\*\Downloads\dsh pcl\_src\PCL-main\MeloongCore\Shared\Utils\RegistryUtils.cs:行号 70
+20:21:49.244 W <9 · 初始化> [Settings]    在 MeloongCore.RegistryUtils.Write 位置 C:\Users\*\Downloads\dsh pcl\_src\PCL-main\MeloongCore\Shared\Utils\RegistryUtils.cs:行号 38
+20:21:49.244 W <9 · 初始化> [Settings]    在 PCL.Settings.Setting.Save
+20:21:49.244 W <9 · 初始化> [Settings]    错误类型：System.UnauthorizedAccessException
+20:21:49.245 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+20:21:49.245 I <10 · L/PCL 配置更新> [ModSecret] 该版本中不包含更新通知功能……
+20:21:49.245 I <10 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+20:21:49.246 I <14 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+20:21:49.247 I <14 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+20:21:49.250 I <11 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+20:21:49.262 W <11 · L/DlClientList Mojang> [ModNet] 网络请求失败（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json）：程序权限不足。请尝试右键程序，选择以管理员身份运行，或将文件移动到其他文件夹。
+20:21:49.262 W <11 · L/DlClientList Mojang> [ModNet] ——————— 详细错误信息 ———————
+20:21:49.262 W <11 · L/DlClientList Mojang> [ModNet] 网络请求出现意外异常（GET, https://launchermeta.mojang.com/mc/game/version_manifest.json）
+20:21:49.262 W <11 · L/DlClientList Mojang> [ModNet]    在 PCL.ModNet.SendRequest
+20:21:49.262 W <11 · L/DlClientList Mojang> [ModNet]    在 PCL.ModNet.NetRequestByClient
+20:21:49.262 W <11 · L/DlClientList Mojang> [ModNet] → 对路径“C:\Users\*\AppData\Local\Temp\PCL\Cache\Http\”的访问被拒绝。
+20:21:49.262 W <11 · L/DlClientList Mojang> [ModNet]    在 System.IO.__Error.WinIOError
+20:21:49.262 W <11 · L/DlClientList Mojang> [ModNet]    在 System.IO.Directory.InternalCreateDirectory
+20:21:49.262 W <11 · L/DlClientList Mojang> [ModNet]    在 System.IO.Directory.InternalCreateDirectoryHelper
+20:21:49.262 W <11 · L/DlClientList Mojang> [ModNet]    在 PCL.ModNet.SendRequest
+20:21:49.262 W <11 · L/DlClientList Mojang> [ModNet]    错误类型：System.UnauthorizedAccessException
+20:21:49.265 I [MyMsgText] 普通弹窗：开源版本说明
+20:21:49.265 I [MyMsgText] 该版本中无法使用以下特性：
+20:21:49.265 I [MyMsgText] - CurseForge API 调用：需要自行申请 API Key，然后添加到 ModSecret.vb 的开头
+20:21:49.265 I [MyMsgText] - 正版登录：需要自行向微软申请 Client ID，然后添加到 ModSecret.vb 的开头
+20:21:49.265 I [MyMsgText] - 更新与联网通知：避免滥用隐患
+20:21:49.265 I [MyMsgText] - 主题切换：这是需要赞助解锁的纪念性质的功能，别让赞助者太伤心啦……
+20:21:49.265 I [MyMsgText] - 百宝箱：开发早期往里面塞了些开发工具，整理起来太麻烦了……
+20:21:49.767 I <11 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 30000
+20:21:49.767 W <11 · L/DlClientList Mojang> [ModNet] 网络请求失败（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json）：程序权限不足。请尝试右键程序，选择以管理员身份运行，或将文件移动到其他文件夹。
+20:21:49.767 W <11 · L/DlClientList Mojang> [ModNet] ——————— 详细错误信息 ———————
+20:21:49.767 W <11 · L/DlClientList Mojang> [ModNet] 网络请求出现意外异常（GET, https://launchermeta.mojang.com/mc/game/version_manifest.json）
+20:21:49.767 W <11 · L/DlClientList Mojang> [ModNet]    在 PCL.ModNet.SendRequest
+20:21:49.767 W <11 · L/DlClientList Mojang> [ModNet]    在 PCL.ModNet.NetRequestByClient
+20:21:49.767 W <11 · L/DlClientList Mojang> [ModNet] → 对路径“C:\Users\*\AppData\Local\Temp\PCL\Cache\Http\”的访问被拒绝。
+20:21:49.767 W <11 · L/DlClientList Mojang> [ModNet]    在 System.IO.__Error.WinIOError
+20:21:49.767 W <11 · L/DlClientList Mojang> [ModNet]    在 System.IO.Directory.InternalCreateDirectory
+20:21:49.767 W <11 · L/DlClientList Mojang> [ModNet]    在 System.IO.Directory.InternalCreateDirectoryHelper
+20:21:49.767 W <11 · L/DlClientList Mojang> [ModNet]    在 PCL.ModNet.SendRequest
+20:21:49.767 W <11 · L/DlClientList Mojang> [ModNet]    错误类型：System.UnauthorizedAccessException
+20:21:49.769 E <11 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Failed
+20:21:49.769 W <11 · L/DlClientList Mojang> [ModLoader] 加载线程 DlClientList Mojang 出错，已完成 100%：程序权限不足。请尝试右键程序，选择以管理员身份运行，或将文件移动到其他文件夹。
+20:21:49.769 W <11 · L/DlClientList Mojang> [ModLoader] ——————— 详细错误信息 ———————
+20:21:49.769 W <11 · L/DlClientList Mojang> [ModLoader] 网络请求出现意外异常（GET, https://launchermeta.mojang.com/mc/game/version_manifest.json）
+20:21:49.769 W <11 · L/DlClientList Mojang> [ModLoader]    在 PCL.ModNet.NetRequestByClientRetry
+20:21:49.769 W <11 · L/DlClientList Mojang> [ModLoader]    在 PCL.ModDownload.DlClientListMojangMain
+20:21:49.769 W <11 · L/DlClientList Mojang> [ModLoader]    在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0
+20:21:49.769 W <11 · L/DlClientList Mojang> [ModLoader] → 对路径“C:\Users\*\AppData\Local\Temp\PCL\Cache\Http\”的访问被拒绝。
+20:21:49.769 W <11 · L/DlClientList Mojang> [ModLoader]    在 System.IO.__Error.WinIOError
+20:21:49.769 W <11 · L/DlClientList Mojang> [ModLoader]    在 System.IO.Directory.InternalCreateDirectory
+20:21:49.769 W <11 · L/DlClientList Mojang> [ModLoader]    在 System.IO.Directory.InternalCreateDirectoryHelper
+20:21:49.769 W <11 · L/DlClientList Mojang> [ModLoader]    在 PCL.ModNet.SendRequest
+20:21:49.769 W <11 · L/DlClientList Mojang> [ModLoader]    错误类型：System.UnauthorizedAccessException
+20:21:51.333 I [MyButton] 按下按钮：确定
+20:21:52.412 I [MyIconButton] 按下图标按钮：BtnTitleClose
+20:21:52.416 I [FormMain] 收到关闭指令
+20:21:52.643 I [FormMain] 程序已退出，返回值：Success
